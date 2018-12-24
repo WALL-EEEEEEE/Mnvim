@@ -1,6 +1,7 @@
 " Config vim-plug plugin manager
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'w0rp/ale'
+Plug 'editorconfig/editorconfig-vim'
 call plug#end()
 
 " Basic config
